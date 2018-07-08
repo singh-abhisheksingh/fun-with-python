@@ -1,7 +1,7 @@
 import cv2
 import numpy as np 
 
-img = cv2.imread('maze.png')
+img = cv2.imread('maze - Copy.png')
 list1=[]
 list2=[]
 list3=[]
